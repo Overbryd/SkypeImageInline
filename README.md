@@ -1,6 +1,7 @@
 # SkypeImageInline
 
-Inlines links to images in skype conversations.
+Inlines links to images in skype conversations.  
+Note however that newer [Skype versions since 6.4](http://blogs.skype.com/2013/05/15/skype-6-4-for-mac-with-easier-to-use-instant-messaging/) do not support Custom Chat Styles any more. Therefore this plugin will only work for Skype versions <= 6.3.
 
 ## Simple install
 
